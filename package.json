@@ -1,0 +1,15 @@
+{
+  "name": "task-pg",
+  "version": "1.0.0",
+  "description": "Wraps node-pg in a task",
+  "main": "index.js",
+  "repository": "git@github.com:Flogistix/task-pg.git",
+  "author": "Adam Booth <adam@ambooth.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "data.task": "^3.1.1",
+    "pg": "^7.4.1",
+    "ramda": "^0.25.0"
+  }
+}
